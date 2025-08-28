@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🌟 KHA GALLERY
 
-<!--
-**khagallery/khagallery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di **KHA GALLERY** – jasa sablon kaos dan percetakan modern.  
+Kami melayani berbagai kebutuhan percetakan dengan desain yang fresh, simpel, dan berkualitas.  
 
-Here are some ideas to get you started:
+## 🛠️ Layanan Kami
+- Sablon kaos custom
+- Cetak banner & brosur
+- Tote bag sablon
+- Produk percetakan lainnya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📸 Galeri Produk
+Beberapa contoh hasil karya bisa dilihat langsung di website.
+
+## 📞 Hubungi Kami
+- 📱 WhatsApp: [0851-7245-7691](https://wa.me/6285172457691)  
+- 📧 Email: [official.khagallery@gmail.com](mailto:official.khagallery@gmail.com)
+
+## 🌐 Website
+👉 [KHA GALLERY Online](https://khagallery.github.io/kha-gallery/)  
+
+
+---
+
+
+---
+
+© 2025 KHA GALLERY. All rights reserved.
